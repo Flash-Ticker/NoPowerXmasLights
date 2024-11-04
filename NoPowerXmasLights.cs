@@ -6,7 +6,7 @@ using UnityEngine;
 
 namespace Oxide.Plugins
 {
-    [Info("NoPowerChristmasLights", "RustFlash", "1.0.0")]
+    [Info("NoPowerChristmasLights", "RustFlash", "1.0.2")]
     [Description("Allows you to use Christmas lights without a power connection")]
     public class NoPowerXmasLights : RustPlugin
     {
